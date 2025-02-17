@@ -1,0 +1,14 @@
+#aboutme{
+    display: flex;
+    background-color: white;
+    height: 80vh;
+    align-items: center;
+    gap: 100px;
+    text-align: justify;
+    
+}
+
+img{
+    height: 300px;
+    border-radius: 20px;
+}
