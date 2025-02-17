@@ -9,6 +9,7 @@ const App = ()=>{
       <Navbar /> 
       <Aboutme />
       <Projects />
+      <p>congrats for deploying your site;</p>
     
     </div>
   );
